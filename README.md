@@ -24,7 +24,7 @@ This project presents an advanced Power BI dashboard built using the IEA Global 
 
 ##  Key Insights
 
-### 🌎 Regional Insights
+### Regional Insights
 - China dominates EV adoption with ~0.97bn EV sales contribution
 - Europe and USA are the next leading regions
 - India shows emerging growth potential but still lower compared to global leaders
