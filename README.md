@@ -66,7 +66,7 @@ This project presents an advanced Power BI dashboard built using the IEA Global 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - Data Visualization
 - Data Analysis
